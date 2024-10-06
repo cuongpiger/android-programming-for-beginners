@@ -1,3 +1,5 @@
 # Android Programming for Beginners
-<hr>
 
+- GitHub repo: https://github.com/PacktPublishing/Android-Programming-for-Beginners-Third-Edition
+
+<hr>
